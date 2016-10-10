@@ -1,3 +1,5 @@
-{"symbol" : "^OMX"},
-{"symbol" : "ABB.ST},
-{"symbol" : "AAPL"}
+{ "symbols" : [
+    {"symbol" : "^OMX"},
+    {"symbol" : "ABB.ST"},
+    {"symbol" : "AAPL"}
+]}
